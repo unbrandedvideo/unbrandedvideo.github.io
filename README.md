@@ -1,1 +1,0 @@
-# CounselorBemidjiMarketing.github.io
