@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<style>
+    .center {
+     text-align: center
+    }
+</style>
+<html>
+    <body>
+        <p class="center">
+            <iframe width='853' height='480' src='https://my.matterport.com/show/?m=tzwmUxqFv4X&mls=1' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe>
+        </p>
+    </body>
